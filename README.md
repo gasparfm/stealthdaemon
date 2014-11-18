@@ -23,7 +23,16 @@ I just want to make something useful to me, something I can install on some serv
 
 Coding, coding, coding
 ----------------------
-Some things won't be coded the best way. But I hope this code will be improved ;)
+It'll be done in C++11 to be compiled by GNU GCC (at least), but lot's of things must be coded in plain C to get more performance (avoiding wrappers when using some APIs) or just to avoid making it difficult.
+Some things won't be coded the best way. But I hope this code will be improved soon. ;)
+
+Dependencies
+------------
+I'll try to make it the least other software dependant as I can, but sometimes it's unavoidable.
+
+Extending it
+------------
+My itention is to make it extensible by loading plug-ins, but trying not to make it too heavy.
 
 Suggestions
 -----------
