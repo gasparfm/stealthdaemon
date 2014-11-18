@@ -21,6 +21,10 @@ What this will be
 -----------------
 I just want to make something useful to me, something I can install on some servers and perform some tasks on these machines (periodically or not), make decisions and report me useful information. I don't think it could be done for big servers, it probably won't replace all functionalities of some software. But I hope what it does, does it fast and integrated.
 
+Coding, coding, coding
+----------------------
+Some things won't be coded the best way. But I hope this code will be improved ;)
+
 Suggestions
 -----------
 You can contact me by mail: gaspy [at] totaki [dot] com
